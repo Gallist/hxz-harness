@@ -53,6 +53,8 @@ python3 skills/zhiku-market/zhiku "有没有写公众号的 skill"
 python3 skills/zhiku-market/zhiku -t mcps "database"
 ```
 
+已完整复制作者原版五个文件，并在无历史缓存的临时环境实测中文查询和 MCP 筛选通过，见 [zhiku 实测记录](ZHIKU-VERIFICATION.md)。
+
 无需 API Key，但需要访问市场在线目录。目录里标记 mine=1 的私有组件需要原作者授权，本包不提供这些私有组件的安装权限。
 
 ## 发给 Agent 的开场指令
